@@ -1,0 +1,18 @@
+{
+  "short_name": "TFAOSV",
+  "name": "The Funky Adventures Of Swanky Velvet",
+  "icons": [
+    {
+      "src": "./icons/sv.png",
+      "type": "image/png",
+      "sizes": "109x184"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#e6e6e6",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "scope": "./",
+  "theme_color": "#000000"
+}
+   
